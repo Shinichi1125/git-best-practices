@@ -1,0 +1,3 @@
+Is it "git merge origin/develop", not "git merge origin/development"?
+My development branch is named "development". 
+Does the "develop" as in "origin/develop" refer to something else? 

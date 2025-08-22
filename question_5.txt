@@ -1,0 +1,11 @@
+Currently, I'm at feature/task-B branch, which derives from development branch of the project that I'm working for. 
+I've made a few commits and pushed them to the version control, but haven't merged or made a pull request. 
+
+One day, I noticed that another feature branch feature/task-C would be merged soon. 
+It turns out that this branch has a lot of overlaps with my work on feature/task-B, and once this gets merged, 
+the commits that I have made on feature/task-B won't be necessary. 
+
+In this kind of case scenario, would it be wise for me to just get back to development branch without making a pull request 
+and just start over from the updated development branch?
+
+This way, I don't think I will need to deal with merge conflicts that are possibly coming, if I do decide to merge my work on feature/task-B.

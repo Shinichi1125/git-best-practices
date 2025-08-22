@@ -1,0 +1,3 @@
+I'm currently at a feature branch that derives from development branch. 
+If my teammates working on other features that also derive from development branch merge their feature branches to development 
+then I git pull under my current feature branch, does that reflect the merged changes to my feature branch?

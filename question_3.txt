@@ -1,0 +1,7 @@
+If I go with the Option 1: Merge develop into your feature branch, before running these: 
+git fetch origin
+git merge origin/develop
+, should I make sure the followings?
+
+- I'm still on my feature branch (e.g., feature/my-work)
+- git status returns a clean state (if there are changes not staged for commit, run git stash)

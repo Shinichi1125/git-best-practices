@@ -1,0 +1,3 @@
+When you run git log <path_to_the_target_file>, it displays the history of git commits done for that file, the latest at the top and the oldest at the bottom. 
+When the history is very long, it takes quite a while to reach the bottom if you simply keep pressing the down arrow button. 
+How do you display the oldest N commits more easily? (e.g., the oldest commit, the oldest 3 commits)
