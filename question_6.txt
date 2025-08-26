@@ -1,0 +1,9 @@
+Currently I have two branches: feature/work-1234, feature/work-1235, both of which derive from development branch. 
+These are Bitbucket branches, and each Bitbucket branch can be deleted via "more options" button in the UI. 
+
+With the following assumptions:
+
+- feature/work-1234 has already been merged to development, but this branch is remaining because "automatically delete the branch when merged" was not enabled.
+- feature/work-1235 is not merged to development, but it is confirmed that all the code changes on this branch won't be needed any more at all. 
+
+, is it safe to delete both feature/work-1234 and feature/work-1235?

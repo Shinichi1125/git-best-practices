@@ -3,3 +3,4 @@
 3: Making sure that the branch is clean before merging
 4: git merge origin/development
 5: Starting over from updated development
+6: Branches that are safe to delete
