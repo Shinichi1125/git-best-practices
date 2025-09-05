@@ -1,0 +1,14 @@
+I created a new GitHub repo via my GitHub dashboard, ran git init in my Chromebook Linux, pushed everything to the remote repo. 
+After that, I continued the work switching the device to my Mac. 
+
+I added some files, commited, and tried to push. 
+Then I got the following prompt and error:
+
+Username for 'https://github.com': MY_GITHUB_USERNAME
+Password for 'https://MY_GITHUB_USERNAME@github.com':
+remote: Invalid username or token. Password authentication is not supported for Git operations.
+fatal: Authentication failed for 'https://github.com/MY_GITHUB_USERNAME/the-repo-name/'
+
+I checked the SSH and GPG keys section of my own account and confirmed that my MacBook SSH key is added there. 
+Despite that, why did I still get asked for the password and the authentication failed, even though I did provide the correct password?
+ 
